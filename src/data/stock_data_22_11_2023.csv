@@ -1,5 +1,5 @@
 product_id,manufacturer_name,quantity_in_stock,supplier_contact,last_stock_update,price_per_unit,category,location_in_warehouse,reorder_threshold
-1,TechSavvy,-38,969-870-6045,08/11/2023,704.69,Clothing,C3,4
+1,TechSavvy,243,969-870-6045,08/11/2023,704.69,Clothing,C3,4
 2,ElecTronix,278,488-811-9502,01/12/2023,391.26,Home decor,C3,20
 3,GadgetMaster,329,984-165-4238,4/25/2023,175.01,Electronics,D4,28
 4,TechGenius,55,403-329-7005,2/13/2023,555.44,Electronics,D4,40
